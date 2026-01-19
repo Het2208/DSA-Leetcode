@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Het2208/DSA-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0238-product-of-array-except-self](https://github.com/Het2208/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Het2208/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Het2208/DSA-Leetcode-/tree/master/0704-binary-search) |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Het2208/DSA-Leetcode-/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Het2208/DSA-Leetcode-/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Het2208/DSA-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Het2208/DSA-Leetcode-/tree/master/0036-valid-sudoku) |
+| [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -47,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -84,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Het2208/DSA-Leetcode-/tree/master/0036-valid-sudoku) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

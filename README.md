@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Het2208/DSA-Leetcode-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Het2208/DSA-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Het2208/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Het2208/DSA-Leetcode-/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Het2208/DSA-Leetcode-/tree/master/0075-sort-colors) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Het2208/DSA-Leetcode-/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Het2208/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Het2208/DSA-Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 ## Prefix Sum
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Het2208/DSA-Leetcode-/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Het2208/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Het2208/DSA-Leetcode-/tree/master/0054-spiral-matrix) |
 ## Bit Manipulation
 |  |

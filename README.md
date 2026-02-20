@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Het2208/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Het2208/DSA-Leetcode-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Het2208/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Het2208/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Het2208/DSA-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Het2208/DSA-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Het2208/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Het2208/DSA-Leetcode-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Het2208/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 ## Bit Manipulation
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Het2208/DSA-Leetcode-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Het2208/DSA-Leetcode-/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |

@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Het2208/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Het2208/DSA-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Het2208/DSA-Leetcode-/tree/master/0704-binary-search) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Het2208/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0853-car-fleet](https://github.com/Het2208/DSA-Leetcode-/tree/master/0853-car-fleet) |
 | [3731-find-missing-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/3731-find-missing-elements) |

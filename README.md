@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Het2208/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Het2208/DSA-Leetcode-/tree/master/0853-car-fleet) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Het2208/DSA-Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Het2208/DSA-Leetcode-/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Het2208/DSA-Leetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Het2208/DSA-Leetcode-/tree/master/3925-concatenate-array-with-reverse) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3668-restore-finishing-order](https://github.com/Het2208/DSA-Leetcode-/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |

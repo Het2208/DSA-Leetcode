@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Het2208/DSA-Leetcode-/tree/master/0367-valid-perfect-square) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Het2208/DSA-Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Het2208/DSA-Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Het2208/DSA-Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Het2208/DSA-Leetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Het2208/DSA-Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

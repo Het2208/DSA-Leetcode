@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Het2208/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Het2208/DSA-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Het2208/DSA-Leetcode-/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Het2208/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Het2208/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Het2208/DSA-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Het2208/DSA-Leetcode-/tree/master/0067-add-binary) |
 | [1768-merge-strings-alternately](https://github.com/Het2208/DSA-Leetcode-/tree/master/1768-merge-strings-alternately) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Het2208/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Het2208/DSA-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Het2208/DSA-Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |

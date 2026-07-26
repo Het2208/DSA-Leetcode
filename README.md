@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Het2208/DSA-Leetcode-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Het2208/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Het2208/DSA-Leetcode-/tree/master/0853-car-fleet) |
+| [0904-fruit-into-baskets](https://github.com/Het2208/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Het2208/DSA-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Het2208/DSA-Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/Het2208/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [3668-restore-finishing-order](https://github.com/Het2208/DSA-Leetcode-/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Het2208/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Het2208/DSA-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Het2208/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Het2208/DSA-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Het2208/DSA-Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Graph Theory

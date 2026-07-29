@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Het2208/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Het2208/DSA-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Het2208/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Het2208/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Het2208/DSA-Leetcode-/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Het2208/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0414-third-maximum-number) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Het2208/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Het2208/DSA-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Het2208/DSA-Leetcode-/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Het2208/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Het2208/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Het2208/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Het2208/DSA-Leetcode-/tree/master/1768-merge-strings-alternately) |

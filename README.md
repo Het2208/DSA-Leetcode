@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Het2208/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Het2208/DSA-Leetcode-/tree/master/0853-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/Het2208/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Het2208/DSA-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Het2208/DSA-Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Het2208/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0930-binary-subarrays-with-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Het2208/DSA-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Het2208/DSA-Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Het2208/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Het2208/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Het2208/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3668-restore-finishing-order](https://github.com/Het2208/DSA-Leetcode-/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Het2208/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Het2208/DSA-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Het2208/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Het2208/DSA-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Het2208/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Het2208/DSA-Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |

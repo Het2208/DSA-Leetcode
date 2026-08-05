@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Het2208/DSA-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Het2208/DSA-Leetcode-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Het2208/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
+| [0821-shortest-distance-to-a-character](https://github.com/Het2208/DSA-Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 | [0853-car-fleet](https://github.com/Het2208/DSA-Leetcode-/tree/master/0853-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/Het2208/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Het2208/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0344-reverse-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/Het2208/DSA-Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 | [1768-merge-strings-alternately](https://github.com/Het2208/DSA-Leetcode-/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Het2208/DSA-Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Het2208/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Het2208/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0821-shortest-distance-to-a-character](https://github.com/Het2208/DSA-Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Het2208/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Het2208/DSA-Leetcode-/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming

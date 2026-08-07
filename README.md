@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Het2208/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/Het2208/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Het2208/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0344-reverse-string) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Het2208/DSA-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Het2208/DSA-Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Het2208/DSA-Leetcode-/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Het2208/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Het2208/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Het2208/DSA-Leetcode-/tree/master/0853-car-fleet) |
 ## Monotonic Stack
@@ -267,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Het2208/DSA-Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Het2208/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Het2208/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

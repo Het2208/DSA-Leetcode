@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Het2208/DSA-Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Het2208/DSA-Leetcode-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Het2208/DSA-Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Het2208/DSA-Leetcode-/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
 | ------- |

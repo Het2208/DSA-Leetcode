@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Het2208/DSA-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Het2208/DSA-Leetcode-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Het2208/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/Het2208/DSA-Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 | [0853-car-fleet](https://github.com/Het2208/DSA-Leetcode-/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Het2208/DSA-Leetcode-/tree/master/0875-koko-eating-bananas) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Het2208/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0152-maximum-product-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |

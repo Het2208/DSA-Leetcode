@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Het2208/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Het2208/DSA-Leetcode-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Het2208/DSA-Leetcode-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Het2208/DSA-Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Het2208/DSA-Leetcode-/tree/master/0367-valid-perfect-square) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Het2208/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0152-maximum-product-subarray) |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0040-combination-sum-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

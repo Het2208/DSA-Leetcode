@@ -7,9 +7,9 @@ class Solution {
 
         if(dp[i] != -1) return dp[i];
 
-        int left = f(i + 1 , cost , dp);
-        int right = f(i + 2, cost , dp);
-        dp[i] = cost[i] + Math.min(left , right);
+        int choice1 = cost[i] + f(i + 1 , cost , dp);
+        int choice2 = cost[i] + f(i + 2, cost , dp);
+        dp[i] = Math.min(choice1 , choice2);
 
         return dp[i]; 
     }

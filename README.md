@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Het2208/DSA-Leetcode-/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Het2208/DSA-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Het2208/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Het2208/DSA-Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -352,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

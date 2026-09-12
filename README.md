@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Het2208/DSA-Leetcode-/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Het2208/DSA-Leetcode-/tree/master/0400-nth-digit) |
+| [0509-fibonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Het2208/DSA-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Het2208/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Het2208/DSA-Leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0213-house-robber-ii) |
+| [0509-fibonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Het2208/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -348,4 +351,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

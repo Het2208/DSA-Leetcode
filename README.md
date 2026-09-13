@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Het2208/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Het2208/DSA-Leetcode-/tree/master/0392-is-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/Het2208/DSA-Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 | [1768-merge-strings-alternately](https://github.com/Het2208/DSA-Leetcode-/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Het2208/DSA-Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Het2208/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Het2208/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Het2208/DSA-Leetcode-/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Het2208/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Het2208/DSA-Leetcode-/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/Het2208/DSA-Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Het2208/DSA-Leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/Het2208/DSA-Leetcode-/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/1137-n-th-tribonacci-number) |

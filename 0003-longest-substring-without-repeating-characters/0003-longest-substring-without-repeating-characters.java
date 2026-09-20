@@ -8,8 +8,8 @@ class Solution {
         Map<Character, Integer> hash = new HashMap<>();
         for(int r=0 ; r<n ; r++){
             char ch = s.charAt(r);
-            if(hash.containsKey(ch) && hash.get(ch) >= l){
-                l = hash.get(ch) + 1;
+            while(hash.containsKey(ch) && hash.get(ch) >= l){
+                l++;
             }
             maxLength = Math.max(maxLength , r-l+1);
             hash.put(ch, r);

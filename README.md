@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Het2208/DSA-Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Het2208/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Het2208/DSA-Leetcode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Het2208/DSA-Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Het2208/DSA-Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/1137-n-th-tribonacci-number) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Het2208/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Het2208/DSA-Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Het2208/DSA-Leetcode-/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Het2208/DSA-Leetcode-/tree/master/3898-find-the-degree-of-each-vertex) |

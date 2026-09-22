@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Het2208/DSA-Leetcode-/tree/master/0162-find-peak-element) |
+| [0174-dungeon-game](https://github.com/Het2208/DSA-Leetcode-/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Het2208/DSA-Leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0219-contains-duplicate-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Het2208/DSA-Leetcode-/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Het2208/DSA-Leetcode-/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Het2208/DSA-Leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Het2208/DSA-Leetcode-/tree/master/0392-is-subsequence) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Het2208/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0174-dungeon-game](https://github.com/Het2208/DSA-Leetcode-/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Het2208/DSA-Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

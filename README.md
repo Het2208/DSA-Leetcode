@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Het2208/DSA-Leetcode-/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Het2208/DSA-Leetcode-/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Het2208/DSA-Leetcode-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Het2208/DSA-Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Het2208/DSA-Leetcode-/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/1137-n-th-tribonacci-number) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/1289-minimum-falling-path-sum-ii) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Het2208/DSA-Leetcode-/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Het2208/DSA-Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Het2208/DSA-Leetcode-/tree/master/1672-richest-customer-wealth) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Het2208/DSA-Leetcode-/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Het2208/DSA-Leetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bit Manipulation
 |  |

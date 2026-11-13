@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Het2208/DSA-Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Het2208/DSA-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Het2208/DSA-Leetcode-/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/Het2208/DSA-Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 | [1768-merge-strings-alternately](https://github.com/Het2208/DSA-Leetcode-/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Het2208/DSA-Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Het2208/DSA-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/Het2208/DSA-Leetcode-/tree/master/0853-car-fleet) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -389,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Het2208/DSA-Leetcode-/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

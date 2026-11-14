@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Het2208/DSA-Leetcode-/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Het2208/DSA-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Het2208/DSA-Leetcode-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Het2208/DSA-Leetcode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Het2208/DSA-Leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Het2208/DSA-Leetcode-/tree/master/3668-restore-finishing-order) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Het2208/DSA-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Het2208/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Het2208/DSA-Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Het2208/DSA-Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Het2208/DSA-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Het2208/DSA-Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Graph Theory
 |  |
 | ------- |

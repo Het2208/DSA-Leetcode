@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/Het2208/DSA-Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 | [0853-car-fleet](https://github.com/Het2208/DSA-Leetcode-/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/Het2208/DSA-Leetcode-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Het2208/DSA-Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Het2208/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Het2208/DSA-Leetcode-/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |

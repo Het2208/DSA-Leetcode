@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Het2208/DSA-Leetcode-/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/Het2208/DSA-Leetcode-/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Het2208/DSA-Leetcode-/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Het2208/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Het2208/DSA-Leetcode-/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Het2208/DSA-Leetcode-/tree/master/0367-valid-perfect-square) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Het2208/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Het2208/DSA-Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Het2208/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Het2208/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Het2208/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Het2208/DSA-Leetcode-/tree/master/0643-maximum-average-subarray-i) |

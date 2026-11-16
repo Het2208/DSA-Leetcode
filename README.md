@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Het2208/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Het2208/DSA-Leetcode-/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Het2208/DSA-Leetcode-/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0064-minimum-path-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Het2208/DSA-Leetcode-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Het2208/DSA-Leetcode-/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Het2208/DSA-Leetcode-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Het2208/DSA-Leetcode-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0064-minimum-path-sum) |

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Het2208/DSA-Leetcode-/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Het2208/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Het2208/DSA-Leetcode-/tree/master/0054-spiral-matrix) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Het2208/DSA-Leetcode-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Het2208/DSA-Leetcode-/tree/master/0860-lemonade-change) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Het2208/DSA-Leetcode-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Het2208/DSA-Leetcode-/tree/master/0062-unique-paths) |

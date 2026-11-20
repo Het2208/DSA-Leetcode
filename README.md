@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Het2208/DSA-Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Het2208/DSA-Leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Het2208/DSA-Leetcode-/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Het2208/DSA-Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Het2208/DSA-Leetcode-/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Het2208/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Het2208/DSA-Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Het2208/DSA-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Het2208/DSA-Leetcode-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Het2208/DSA-Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 | [0576-out-of-boundary-paths](https://github.com/Het2208/DSA-Leetcode-/tree/master/0576-out-of-boundary-paths) |
 | [0746-min-cost-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0746-min-cost-climbing-stairs) |

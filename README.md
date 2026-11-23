@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Het2208/DSA-Leetcode-/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Het2208/DSA-Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Het2208/DSA-Leetcode-/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Het2208/DSA-Leetcode-/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Het2208/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Het2208/DSA-Leetcode-/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/Het2208/DSA-Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Het2208/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Het2208/DSA-Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0509-fibonacci-number) |
 | [0576-out-of-boundary-paths](https://github.com/Het2208/DSA-Leetcode-/tree/master/0576-out-of-boundary-paths) |
+| [0678-valid-parenthesis-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Het2208/DSA-Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/1137-n-th-tribonacci-number) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Het2208/DSA-Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Het2208/DSA-Leetcode-/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Het2208/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Het2208/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Het2208/DSA-Leetcode-/tree/master/0853-car-fleet) |
 ## Monotonic Stack
@@ -430,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Het2208/DSA-Leetcode-/tree/master/0416-partition-equal-subset-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->

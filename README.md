@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Het2208/DSA-Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/Het2208/DSA-Leetcode-/tree/master/1672-richest-customer-wealth) |
+| [1710-maximum-units-on-a-truck](https://github.com/Het2208/DSA-Leetcode-/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Het2208/DSA-Leetcode-/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Het2208/DSA-Leetcode-/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/Het2208/DSA-Leetcode-/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Het2208/DSA-Leetcode-/tree/master/0853-car-fleet) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Het2208/DSA-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Het2208/DSA-Leetcode-/tree/master/1710-maximum-units-on-a-truck) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Het2208/DSA-Leetcode-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Het2208/DSA-Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/Het2208/DSA-Leetcode-/tree/master/3536-maximum-product-of-two-digits) |

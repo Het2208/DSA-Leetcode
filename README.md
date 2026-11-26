@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Het2208/DSA-Leetcode-/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Het2208/DSA-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Het2208/DSA-Leetcode-/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Het2208/DSA-Leetcode-/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Het2208/DSA-Leetcode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Het2208/DSA-Leetcode-/tree/master/0152-maximum-product-subarray) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Het2208/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Het2208/DSA-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Het2208/DSA-Leetcode-/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Het2208/DSA-Leetcode-/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Het2208/DSA-Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Het2208/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Het2208/DSA-Leetcode-/tree/master/0678-valid-parenthesis-string) |
